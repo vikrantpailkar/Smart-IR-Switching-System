@@ -4,14 +4,6 @@ A easy to use library for interfacing standard 16x2 character
 LCD modules with AVR series of MCUs
 --------------------------------------------------------------
 
-Copyright Avinash Gupta 2008 avinash@eXtremeElectronics.co.in
-
-Web: www.eXtremeElectronics.co.in
-
-Please give credit or reference to www.eXtremeElectronics.co.in
-if you use this in your projects and find it useful.
-
-
 ##############################################################*/
 
 #include <avr/io.h>
